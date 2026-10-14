@@ -1,6 +1,5 @@
 ## Hey, I'm Harrison!👋
-<!--
-**HarrisonAllenDev/HarrisonAllenDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 ## About Me:
 I'm a full-time student at Tennessee Technological University pursuing my Bachelor's in Computer Science! I'm a passionate learner and I'm always looking to learn more and gain more experience!
 
